@@ -74,7 +74,7 @@ bower_components
 
 # Codekit #
 ######################
-config.codekit
+config.codekit*
 
 # Visual Studio Code #
 ######################
