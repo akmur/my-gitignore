@@ -53,6 +53,14 @@ Temporary Items
 node_modules
 .env
 
+# Testing #
+######################
+/coverage
+
+# Production #
+######################
+/build
+
 # Logs #
 ######################
 logs
@@ -83,3 +91,10 @@ config.codekit*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Misc #
+######################
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
